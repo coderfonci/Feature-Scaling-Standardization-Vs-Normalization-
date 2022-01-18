@@ -1,11 +1,11 @@
 # Feature-Scaling-Standardization-Vs-Normalization-
-#What is Feature Scaling? 
-#•Feature Scaling is a method to scale numeric features in the same scale or range (like:-1 to 1,  0 to 1). 
-#•This is the last step involved in Data Preprocessing and before ML model training.  
-#•It is also called as data normalization.  
-#•We apply Feature Scaling on independent variables.  
-#•We fit feature scaling with train data and transform on train and test data.  
-#Why Feature Scaling? 
+What is Feature Scaling? 
+•Feature Scaling is a method to scale numeric features in the same scale or range (like:-1 to 1,  0 to 1). 
+•This is the last step involved in Data Preprocessing and before ML model training.  
+•It is also called as data normalization.  
+•We apply Feature Scaling on independent variables.  
+•We fit feature scaling with train data and transform on train and test data.  
+Why Feature Scaling? 
 #•The scale of raw features is different according to its units.  
 •Machine Learning algorithms can’t understand features units, understand only numbers.  
 •Ex: If hight 140cm and 8.2feet  
