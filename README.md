@@ -81,5 +81,7 @@ Standardization  vs Normalization
 
 •Normalization prefers for Image processing because of pixel intensity between 0 to 255, neural network algorithm requires data in scale 0-1, K-Nearest Neighbors.
 
+
+
 foe more Detail = https://sebastianraschka.com/Articles/2014_about_feature_scaling.html#bottom-up-approaches  
 
